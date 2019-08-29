@@ -1,10 +1,15 @@
- #Những bệnh lý về hậu môn trực tràng thường gặp
+=====
+Những bệnh lý về hậu môn trực tràng thường gặp
+=====
 
 Vùng hậu môn với chức năng chính là lỗ thoát của phân ra ngoài, toàn bộ những tác hiền hậu đổi thay của hệ tiêu hóa, rối loàn tiêu hóa hay những bệnh lý con đường tiêu hóa đều ảnh hưởng và tác động tới cơ quan này gây ra trạng thái sang chấn, nhiễm đa dạng tác nhân khác như: nấm, ký sinh trùng, lao.
 
 5 bệnh lý về hậu môn trực tràng thường gặp
 
-##Bệnh trĩ
+-----
+Bệnh trĩ
+-----
+
 Trĩ là hiện tượng những mạch máu vùng hậu môn căng lớn dễ chảy máu. Trĩ là bệnh thường gặp ở người lao động đừng hay ngôi quá lâu tại 1 vị trí, táo bón kéo dài, ăn uống thiếu khoa học, lười đi lại, áp lực, stress,... Đây là bệnh với số người mắc rộng rãi nhất trong bệnh lý can hệ đến hậu môn trực tràng.
 
 Bệnh trĩ được chia thành 3 loại:
@@ -19,7 +24,9 @@ Cảm giác khó chịu ở vùng hậu môn: đau, rát, căng tức khó chị
 Toàn thân: thường ko mang rộng rãi thay đổi, thiếu máu sở hữu thể gặp ở các trường hợp trĩ với chảy máu.
 nếu như ko phát hiện và điều trị sớm bệnh sẽ gây ra phổ thông biến chứng hiểm nguy như: đi ngoài khó khăn gây chảy máu, viêm nhiễm vùng hậu môn trực tràng… tác động nghiêm trọng đến sinh hoạt và cuộc sống hàng ngày.
 
-##Áp xe hậu môn
+-----
+Áp xe hậu môn
+-----
 
 Áp xe hậu môn là tình trạng mưng mủ ở sắp khu vực hậu môn. Đa số áp xe hậu môn là kết quả của nhiễm trùng từ những tuyến hậu môn nhỏ. Dòng áp xe hậu môn phổ thông nhất là áp xe lòng vòng hậu môn.
 
@@ -31,11 +38,11 @@ các triệu chứng thường ngày là sưng quành hậu môn và đau liên 
 
 Áp xe hậu môn giả dụ không điều trị sớm sẽ dẫn đến biến chứng là rò hậu môn, vì thế người bệnh cần nhanh chóng chữa trị kịp thời tránh để bệnh kéo dài.
 
-
-
 Bệnh lý hậu môn trực tràng gây đa dạng phiền toái trong cuộc sống
 
-##Rò hậu môn
+-----
+Rò hậu môn
+-----
 
 Rò hậu môn là chỉ các ống sưng lên ở xung quanh hậu môn, do lỗ rò bên trong, trục đường rò, hoặc lỗ rò bên ngoài tạo thành.
 
@@ -47,7 +54,9 @@ Triệu chứng điển hình của bệnh rò hậu môn là ở lỗ rò mang 
 
 Điều trị: hai đề xuất cần phải đạt, phá hủy con đường rò và bảo vệ an toàn cơ thắt. Hài hòa sử dụng thuốc kháng sinh toàn thân liều cao, thuốc giảm đau, kháng viêm, nâng đỡ thể trạng.
 
-##Nứt kẽ hậu môn
+-----
+Nứt kẽ hậu môn
+-----
 
 Nứt kẽ hậu môn xuất hiện trong trường hợp:
 
@@ -62,7 +71,9 @@ mô tả tiêu biểu của bệnh:
 kèm theo chảy ít máu tươi.
 Điều trị nứt kẽ hậu môn cần tuân theo đúng hướng dẫn của bác sĩ chuyên khoa. Trong 1 số trường hợp điều trị nội khoa không đem đến hiệu quả, người bệnh cần được tiến hành phẫu thuật cắt bỏ một phần bên cơ vòng trong ống hậu môn giúp làm giảm cơn đau.
 
-##Ngứa hậu môn
+-----
+Ngứa hậu môn
+-----
 
 Ngứa hậu môn là ngứa nói quanh hậu môn, đó là nơi lối thoát cho trực tràng. Vị trí ngứa nằm ở hậu môn hoặc trên da xung quanh hậu môn, thường là dữ dội. Ngứa hậu môn gây ra trạng thái lúng túng và khó chịu cho người bệnh.
 
