@@ -92,3 +92,5 @@ nâng cao cường di chuyển, tập thể dục đều đặn mỗi ngày.
 Chế độ ăn nhiều rau xanh, trái cây tươi.
 Ngủ nghỉ hợp lý, hạn chế thức quá khuya, giảm thiểu găng tâm thần.
 kiểm tra sức khỏe định kỳ.
+
+https://bienchungbenhtri.readthedocs.io/en/latest/
