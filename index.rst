@@ -14,6 +14,8 @@ Trĩ là hiện tượng những mạch máu vùng hậu môn căng lớn dễ c
 
 Bệnh trĩ được chia thành 3 loại:
 
+`Nguyên nhân, triệu chứng, biểu hiện của bệnh trĩ <https://thongtinbenhtri.readthedocs.io/en/latest/>`_
+
 Trĩ nội: những búi trĩ hình thành bên trong hậu môn.
 Trĩ ngoại: các búi trĩ hình thành bên ngoài hậu môn, có thể sờ hay nhận ra bằng mắt thường.
 Trĩ hỗn hợp: là tổng hòa cả trĩ nội và trĩ ngoại xảy ra trong cùng 1 thời khắc.
