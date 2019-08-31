@@ -94,3 +94,6 @@ Ngủ nghỉ hợp lý, hạn chế thức quá khuya, giảm thiểu găng tâm
 kiểm tra sức khỏe định kỳ.
 
 https://bienchungbenhtri.readthedocs.io/en/latest/
+https://cach-chua-benh-tri-tai-nha-an-toan.readthedocs.io/en/latest/
+https://readthedocs.org/projects/cach-chua-benh-tri-tai-nha-an-toan/
+https://readthedocs.org/projects/dia-chia-kham-chua-va-dieu-tri-benh-tri/
